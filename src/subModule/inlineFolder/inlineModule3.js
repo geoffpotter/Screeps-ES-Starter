@@ -1,0 +1,1 @@
+export default "inlineModule3.js"
